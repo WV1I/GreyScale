@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rb6l1NjD19KxVdSpqu99/LaiMDGS2ZoCWfgzTnL40LswkxjS+/8KMIi/+/VZDvkvr7aA3RUPJ9M5fOa7Z9QgTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\agawl\\source\\repos\\greyscale\\greyscale\\greyscale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agawl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
